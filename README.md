@@ -1,3 +1,3 @@
 # discordbotlist
 
-credits to vcodes.xyz
+CREDITS TO MUMIN KING
