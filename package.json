@@ -25,6 +25,7 @@
     "helmet": "^4.4.1",
     "http": "0.0.1-security",
     "jimp": "^0.16.1",
+    "jquery": "^3.6.1",
     "js-alert": "^1.0.4",
     "level-session-store": "^2.2.0",
     "marked": "^2.0.0",
@@ -43,8 +44,8 @@
     "sweetalert": "^2.1.2",
     "sweetalert2": "10.15.6",
     "vcodes.js": "1.0.1-renewed",
-    "void.nsfw": "^1.0.8-beta",
-    "void.db": "^2.0.4"
+    "void.db": "^2.0.4",
+    "void.nsfw": "^1.0.8-beta"
   },
   "engines": {
     "node": "12.x"
